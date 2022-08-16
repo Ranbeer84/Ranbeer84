@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ranbeer84
 - 👀 I’m interested in AI,ML,DP 
 - 🌱 I’m currently learning DSA & ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ranbeersinghcauhan@gmail.com
 
 <!---
