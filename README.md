@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ranbeer84
-- 👀 I’m interested in AI,ML,DP 
-- 🌱 I’m currently learning DSA & ML
+- 👀 I’m interested in AI,ML
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me ranbeersinghcauhan@gmail.com
 
 <!---
